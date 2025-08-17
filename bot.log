@@ -1,0 +1,54 @@
+2025-08-17 12:47:57,136 - aiogram.dispatcher - INFO - Start polling
+2025-08-17 12:47:57,181 - aiogram.dispatcher - INFO - Run polling for bot @che12cker00bot id=8335283399 - 'checker22'
+2025-08-17 12:48:00,901 - aiogram.event - INFO - Update id=896771762 is handled. Duration 593 ms by bot id=8335283399
+2025-08-17 12:48:06,799 - aiogram.event - INFO - Update id=896771763 is handled. Duration 78 ms by bot id=8335283399
+2025-08-17 12:48:08,898 - aiogram.event - INFO - Update id=896771764 is handled. Duration 62 ms by bot id=8335283399
+2025-08-17 12:48:09,618 - aiogram.event - INFO - Update id=896771765 is handled. Duration 77 ms by bot id=8335283399
+2025-08-17 12:48:11,606 - aiogram.event - INFO - Update id=896771766 is handled. Duration 139 ms by bot id=8335283399
+2025-08-17 12:48:13,626 - aiogram.event - INFO - Update id=896771767 is handled. Duration 93 ms by bot id=8335283399
+2025-08-17 12:48:15,029 - aiogram.event - INFO - Update id=896771768 is handled. Duration 172 ms by bot id=8335283399
+2025-08-17 12:48:17,093 - aiogram.event - INFO - Update id=896771769 is handled. Duration 187 ms by bot id=8335283399
+2025-08-17 12:48:18,220 - aiogram.event - INFO - Update id=896771770 is handled. Duration 156 ms by bot id=8335283399
+2025-08-17 12:48:19,019 - aiogram.event - INFO - Update id=896771771 is handled. Duration 157 ms by bot id=8335283399
+2025-08-17 12:48:26,645 - aiogram.event - INFO - Update id=896771772 is handled. Duration 891 ms by bot id=8335283399
+2025-08-17 12:59:25,589 - aiogram.event - INFO - Update id=896771773 is handled. Duration 469 ms by bot id=8335283399
+2025-08-17 12:59:47,356 - aiogram.event - INFO - Update id=896771774 is handled. Duration 421 ms by bot id=8335283399
+2025-08-17 12:59:50,751 - aiogram.event - INFO - Update id=896771775 is handled. Duration 171 ms by bot id=8335283399
+2025-08-17 12:59:59,770 - aiogram.event - INFO - Update id=896771776 is handled. Duration 78 ms by bot id=8335283399
+2025-08-17 13:00:05,407 - aiogram.event - INFO - Update id=896771777 is handled. Duration 125 ms by bot id=8335283399
+2025-08-17 13:00:07,219 - aiogram.event - INFO - Update id=896771778 is handled. Duration 93 ms by bot id=8335283399
+2025-08-17 13:01:32,168 - aiogram.event - INFO - Update id=896771779 is handled. Duration 110 ms by bot id=8335283399
+2025-08-17 13:01:48,906 - aiogram.event - INFO - Update id=896771780 is handled. Duration 531 ms by bot id=8335283399
+2025-08-17 13:01:54,641 - root - ERROR - All attempts failed: Invalid cookie
+2025-08-17 13:01:54,642 - root - ERROR - All attempts failed: Invalid cookie
+2025-08-17 16:01:40,109 - aiogram.dispatcher - INFO - Start polling
+2025-08-17 16:01:40,233 - aiogram.dispatcher - INFO - Run polling for bot @che12cker00bot id=8335283399 - 'checker22'
+2025-08-17 16:02:18,160 - aiogram.event - INFO - Update id=896771781 is handled. Duration 406 ms by bot id=8335283399
+2025-08-17 16:02:19,592 - aiogram.event - INFO - Update id=896771782 is handled. Duration 202 ms by bot id=8335283399
+2025-08-17 16:02:30,499 - aiogram.event - INFO - Update id=896771783 is handled. Duration 108 ms by bot id=8335283399
+2025-08-17 16:02:31,637 - aiogram.event - INFO - Update id=896771784 is handled. Duration 110 ms by bot id=8335283399
+2025-08-17 16:02:35,561 - aiogram.event - INFO - Update id=896771785 is handled. Duration 1062 ms by bot id=8335283399
+2025-08-17 16:05:14,321 - root - ERROR - All attempts failed: Invalid cookie
+2025-08-17 16:05:14,477 - root - ERROR - All attempts failed: Invalid cookie
+2025-08-17 16:05:14,679 - root - ERROR - All attempts failed: Invalid cookie
+2025-08-17 16:05:14,830 - root - ERROR - All attempts failed: Invalid cookie
+2025-08-17 16:05:14,987 - root - ERROR - All attempts failed: Invalid cookie
+2025-08-17 16:05:15,160 - root - ERROR - All attempts failed: Invalid cookie
+2025-08-17 16:05:15,343 - root - ERROR - All attempts failed: Invalid cookie
+2025-08-17 16:05:15,493 - root - ERROR - All attempts failed: Invalid cookie
+2025-08-17 16:06:33,139 - aiogram.event - INFO - Update id=896771786 is handled. Duration 343 ms by bot id=8335283399
+2025-08-17 16:06:55,070 - aiogram.event - INFO - Update id=896771787 is handled. Duration 139 ms by bot id=8335283399
+2025-08-17 16:06:57,594 - aiogram.event - INFO - Update id=896771788 is handled. Duration 93 ms by bot id=8335283399
+2025-08-17 16:07:26,437 - aiogram.event - INFO - Update id=896771789 is handled. Duration 468 ms by bot id=8335283399
+2025-08-17 16:07:32,843 - root - ERROR - All attempts failed: Invalid cookie
+2025-08-17 16:07:32,844 - root - ERROR - All attempts failed: Invalid cookie
+2025-08-17 16:07:32,844 - root - ERROR - All attempts failed: Invalid cookie
+2025-08-17 16:07:32,844 - root - ERROR - All attempts failed: Invalid cookie
+2025-08-17 16:07:32,845 - root - ERROR - All attempts failed: Invalid cookie
+2025-08-17 16:07:32,845 - root - ERROR - All attempts failed: Invalid cookie
+2025-08-17 16:07:32,845 - root - ERROR - All attempts failed: Invalid cookie
+2025-08-17 16:07:32,845 - root - ERROR - All attempts failed: Invalid cookie
+2025-08-17 16:08:10,990 - aiogram.event - INFO - Update id=896771790 is handled. Duration 171 ms by bot id=8335283399
+2025-08-17 16:08:15,126 - aiogram.event - INFO - Update id=896771791 is handled. Duration 125 ms by bot id=8335283399
+2025-08-17 16:08:16,648 - aiogram.event - INFO - Update id=896771792 is handled. Duration 78 ms by bot id=8335283399
+2025-08-17 16:08:25,622 - aiogram.event - INFO - Update id=896771793 is handled. Duration 546 ms by bot id=8335283399
